@@ -1,0 +1,15 @@
+:local(.borderitem){
+    border: 1px solid black;
+}
+
+:local(.fullWidth){
+    width: 100%
+}
+
+:local(.bold){
+font-weight: bold;
+}
+
+:local(.inlineblock){
+    display: inline-block;
+    }
